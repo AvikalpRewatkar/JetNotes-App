@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665065760358",
+    "project_id": "notes-cd7e5",
+    "storage_bucket": "notes-cd7e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665065760358:android:61d6912af434c77091efa7",
+        "android_client_info": {
+          "package_name": "com.example.jetnotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd3203L3F8cvjnnfjO9sk8uEhsTK9TMq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
